@@ -2,7 +2,7 @@
 title: "Installing Unity on a Windows PC"
 date: 2019-10-08
 tags: [unity, windows, guide, installing]
-excerpt:  "Unity, Installation, Guide, Windows"
+excerpt:  "Unity, Windows, Guide, Installing"
 ---
 
 ## Getting Started
@@ -23,3 +23,13 @@ excerpt:  "Unity, Installation, Guide, Windows"
 
 ![](../images/unity_install/unity_hub.jpg)
 
+To begin using the Unity Hub, you must first login to your Unity account. 
+
+* Click on the Unity ID icon on the top-right of the Unity Hub window.
+* Click on **Sign In**
+* Log in using your Unity profile credentials.
+* Click on **Activate New License** button.
+* Click on **Unity Personal**.
+* Click on **I don't use Unity in a professional capacity**.
+* Click **Done**.
+  
