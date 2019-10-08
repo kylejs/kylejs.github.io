@@ -63,7 +63,27 @@ Now that you have your editor installed, you can now begin to create new project
 
 Unity's user interface (UI) has numerous tools to help you build your new project. 
 
-### Creating a Game Asset 
+### Game Assets 
 
 Assets are different pieces of content that are part of a game. Some examples of game assets are audio files, models, maps, and text.
 
+#### Creating a Game Asset
+
+##### Scenes
+
+* Click on the **Assets** tab on the top of the Unity project window.
+* Hover your pointer over **Create**.
+* Click **Scene**. 
+* Name your Scene, which is located under the **Project** tab towards the bottom of the window. 
+
+### Creating Game Objects
+
+Game Objects are items that make up your scenes within Unity. Objects they are considered everything located within a scene. Game Objects are made up by a number of different components.  
+
+#### 3D Cubes
+
+* Click on the **GameObject**tab on the top of the Unity Project Window.
+* Navigate down to **3D Object** and select **Cube**.
+* Use the **Inspector** pane on the right side of the Unity Window to manipulate the properties of the 3D Cube. 
+
+ 
