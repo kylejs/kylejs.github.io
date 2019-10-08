@@ -47,4 +47,6 @@ Before creating a new project, you must install an editor.
 * Click the **Add** button on the top-right of the window.
 * Choose the version of Unity you would like added.
   * the latest version of Unity is chosen by default.
-*  
+* Choose any additional modules that you would like installed.
+* Agree to the terms and conditions. 
+* Click **Done**.
