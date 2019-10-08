@@ -39,7 +39,7 @@ Now that a license has been established, you should click the **Check for Update
 
 Once you navigate back to Unity Hub's homepage, you have the option to create a new project or add one to your project list.
 
-### Creating a New Project
+### Creating Projects
 
 Before creating a new project, you must install an editor.
 
@@ -50,3 +50,20 @@ Before creating a new project, you must install an editor.
 * Choose any additional modules that you would like installed.
 * Agree to the terms and conditions. 
 * Click **Done**.
+
+Now that you have your editor installed, you can now begin to create new projects.
+
+* Click **New** on the top-right side of the window.
+* Select one of the predefined **Templates** 
+* Name your project under **Project Name**.
+* Choose where you want your projected locally stored under **Location**.
+* Click **Create**.
+
+## Using Unity with the Built-In Renderer
+
+Unity's user interface (UI) has numerous tools to help you build your new project. 
+
+### Creating a Game Asset 
+
+Assets are different pieces of content that are part of a game. Some examples of game assets are audio files, models, maps, and text.
+
