@@ -21,7 +21,7 @@ excerpt:  "Unity, Windows, Guide, Installing"
 
 ## Using Unity Hub
 
-![](../images/unity_install/unity_hub.jpg)
+![Unity Hub Screenshot](../images/unity_install/unity_hub.jpg)
 
 To begin using the Unity Hub, you must first login to your Unity account. 
 
