@@ -7,7 +7,7 @@ excerpt:  "Unity, Windows, Guide, Installing"
 
 ## Getting Started
 
-* Open your web browser of choice and navigate to the [Unity Store](https://https://store.unity.com/download).
+* Open your web browser of choice and navigate to the [Unity Store](https://store.unity.com/download).
 * Accept the Unity Personal **Terms of Service** by checking the box.
 * Click on "Download Unity Hub" button to begin download.
 
