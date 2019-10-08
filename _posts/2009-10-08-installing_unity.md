@@ -33,3 +33,18 @@ To begin using the Unity Hub, you must first login to your Unity account.
 * Click on **I don't use Unity in a professional capacity**.
 * Click **Done**.
   
+Now that a license has been established, you should click the **Check for Updates** button to ensure that your license is up-to-date.
+
+## Projects
+
+Once you navigate back to Unity Hub's homepage, you have the option to create a new project or add one to your project list.
+
+### Creating a New Project
+
+Before creating a new project, you must install an editor.
+
+* Click on the **Installs** navigation button on the left side of the window.
+* Click the **Add** button on the top-right of the window.
+* Choose the version of Unity you would like added.
+  * the latest version of Unity is chosen by default.
+*  
