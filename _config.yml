@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Schneider"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/hearthstone.png"
   bio              : "Professional Portfolio"
   location         : "Leominster, MA"
   email            :
@@ -301,4 +301,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
