@@ -2,10 +2,10 @@
 title: "Installing Unity on a Windows PC"
 date: 2019-10-08
 tags: [unity, windows, guide, installing]
-excerpt:  "Unity, Windows, Guide, Installing"
+excerpt: "Unity, Windows, Guide, Installing"
 ---
 
-![](../images/unity_install/unity_small.png)
+![](../images/unity_install/unity_small1.png)
 
 ## Getting Started 
 
