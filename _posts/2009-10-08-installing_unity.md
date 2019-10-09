@@ -5,8 +5,6 @@ tags: [unity, windows, guide, installing]
 excerpt: "Unity, Windows, Guide, Installing"
 ---
 
-![](../images/unity_install/unity_small1.png)
-
 ## Getting Started 
 
 * Open your web browser of choice and navigate to the [Unity Store](https://store.unity.com/download).
