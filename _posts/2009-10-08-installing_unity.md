@@ -86,4 +86,4 @@ Game Objects are items that make up your scenes within Unity. Objects they are c
 * Navigate down to **3D Object** and select **Cube**.
 * Use the **Inspector** pane on the right side of the Unity Window to manipulate the properties of the 3D Cube. 
 
-For more information on Unity, the Unity Engine, or the Unity Hub, please visit [Unity.com](https://unity.com).
+For more information on Unity, Unity Engine, or Unity Hub, please visit [Unity.com](https://unity.com).
