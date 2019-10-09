@@ -5,7 +5,7 @@ tags: [unity, windows, guide, installing]
 excerpt:  "Unity, Windows, Guide, Installing"
 ---
 
-## Getting Started
+## Getting Started ![](/../images/unity_install/blog_unity.jpg)
 
 * Open your web browser of choice and navigate to the [Unity Store](https://store.unity.com/download).
 * Accept the Unity Personal **Terms of Service** by checking the box.
@@ -82,8 +82,8 @@ Game Objects are items that make up your scenes within Unity. Objects they are c
 
 #### 3D Cubes
 
-* Click on the **GameObject**tab on the top of the Unity Project Window.
+* Click on the **GameObject** tab on the top of the Unity Project Window.
 * Navigate down to **3D Object** and select **Cube**.
 * Use the **Inspector** pane on the right side of the Unity Window to manipulate the properties of the 3D Cube. 
 
- 
+For more information on Unity, the Unity Engine, or the Unity Hub, please visit [Unity.com](https://unity.com).
